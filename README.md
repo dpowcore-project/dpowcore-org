@@ -31,7 +31,7 @@ npm start
 
 ## Build
 
-Outputs to `_site/`:
+Outputs to `docs/`:
 
 ```bash
 npm run build
