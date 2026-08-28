@@ -11,6 +11,7 @@ export default function (eleventyConfig) {
 
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("src/static");
+  eleventyConfig.addPassthroughCopy("_headers");
 
   // Subresource Integrity hash for files in src/static
   // Usage: {{ 'css/bootstrap.min.css' | sri }} -> "sha512-...."

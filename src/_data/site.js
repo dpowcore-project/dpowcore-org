@@ -11,7 +11,7 @@ export default {
   github_pulls: "https://github.com/dpowcore-project/dpowcoin/pulls",
   github_contributing: "https://github.com/dpowcore-project/dpowcoin/blob/master/CONTRIBUTING.md",
   github_contributors: "https://github.com/dpowcore-project/dpowcoin/graphs/contributors",
-  website_issues: "https://github.com/dpowcore-project/dpowcore.org/issues",
+  website_issues: "https://github.com/dpowcore-project/dpowcore-org/issues",
   guix_sigs: "https://github.com/dpowcore-project/guix.sigs",
   builder_keys: "https://github.com/dpowcore-project/guix.sigs/tree/main/builder-keys",
   gpg_fingerprint: "23B3D882F805A5D1F0A12A2535A7538B1C816E49",

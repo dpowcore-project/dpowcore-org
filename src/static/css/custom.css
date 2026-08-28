@@ -509,6 +509,7 @@ pre code {
 .bwc-collapse-toggle[aria-expanded="true"] .bwc-collapse-chevron { transform: rotate(180deg); }
 
 /* ── RPC Docs ── */
+.rpc-ver-label { font-family: var(--bwc-font-mono); font-size: 0.78rem; }
 .rpc-layout { min-height: calc(100vh - 60px); }
 .rpc-sidebar {
   background: var(--bwc-surface);
