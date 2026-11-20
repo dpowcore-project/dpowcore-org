@@ -1,17 +1,17 @@
 {
   "name": "dpowcore-site",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve --port=8080",
     "build:clean": "node contrib/doc-gen/clean-rpc-docs.js && eleventy"
   },
   "dependencies": {
-    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy": "^3.1.8",
     "@11ty/eleventy-navigation": "^1.0.5"
   },
   "overrides": {
-    "js-yaml": "^4.2.0"
+    "js-yaml": "^4.3.2"
   }
 }
